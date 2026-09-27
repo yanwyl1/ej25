@@ -4,7 +4,7 @@ Repositorio utilizado para aprender GIT y GitHub
 
 
 
-\## Contenido
+\##Contenido
 
 \- Prácticas de Git
 
