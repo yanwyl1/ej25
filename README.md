@@ -12,3 +12,7 @@ Repositorio utilizado para aprender GIT y GitHub
 
 \- Proyecto de 2º SMR
 
+
+
+Descipción para el ejercicio 19
+
